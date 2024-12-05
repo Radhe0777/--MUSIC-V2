@@ -51,7 +51,7 @@
 - `LOG_GROUP_ID` : Log group id start with -100xxxxxx
 - `START_IMAGE_URL` : Your Start Img Url
 
-**Note:** have any problem or don't understand something, you can ask the **[sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/+7ehnJA3aMb84OGNl)** or **[ᴅᴠɪs](https://t.me/DvisDmBot)** 
+**Note:** have any problem or don't understand something, you can ask the **[sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/ll_BOTCHAMBER_ll)** or **[ᴅᴠɪs](https://t.me/ll_RADHE7_ll)** 
 
 </details>
 
@@ -113,5 +113,5 @@
 </b>
 </details>
 
-**Copyright ©️ [𝐃𝐕𝐈𝐒](https://t.me/DvisDmBot) 😈 <i>Is Repo Ko Paid Karde Becha to Tu To Gaya Beta</i>** 😈
+**Copyright ©️ [𝐑𝐀𝐃𝐇𝐄](https://t.me/ll_RADHE7_ll) 😈 <i>Is Repo Ko Paid Karde Becha to Tu To Gaya Beta</i>** 😈
  
