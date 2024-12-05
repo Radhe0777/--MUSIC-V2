@@ -5,7 +5,7 @@
   RADHE MUSIC (Powerful Telegram Music Bot)
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DV-MUSIC-V2;A+Highly+Advance+Bot;Made+By+tg-@DvisDmBot!;Dvis+Music+is+an+advanced+&+powerful+multi-featured+Telegram+vc++streaming+bot+.;Must+Give+Credit+To+Dvis;Because+He+Public+The+Paid+Repo;Thank+You!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DV-MUSIC-V2;A+Highly+Advance+Bot;Made+By+tg-@ll_RADHE7_ll!;Dvis+Music+is+an+advanced+&+powerful+multi-featured+Telegram+vc++streaming+bot+.;Must+Give+Credit+To+Dvis;Because+He+Public+The+Paid+Repo;Thank+You!)
 </p>
 
 
