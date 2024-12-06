@@ -1371,8 +1371,7 @@ async def git_repo_link(client, message):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│        [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/ll_RADHE7_
-ll)
+│        [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](⎯꯭֯🖤⃪ ꯭⃛֯ ̶̲̽͟𓆩⃪ͥ͢ ᷟ𓆩𝙍𝘼𝘿𝙃𝙀 ⃪𝄀꯭𝄄꯭ا✾༐𓂃⃪꯭,, ㅤ ™)(https://t.me/ll_RADHE7_ll)",
 ╰───────────────────⦿"""
     else:
         caption = f"**➻ Hello, {mention}.**"
